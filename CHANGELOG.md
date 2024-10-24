@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump Gradle from v8.5.0 to v8.10.2 ([#2](https://github.com/lucas-zimerman/sentry-java/pull/2))
+  - [changelog](https://github.com/gradle/gradle/blob/master/CHANGELOG.md#v8102)
+  - [diff](https://github.com/gradle/gradle/compare/v8.5.0...v8.10.2)
+
 ## 7.16.0
 
 ### Features

@@ -566,6 +566,9 @@ SentryAndroid.init(
 - Bump Gradle from v8.14.1 to v8.14.2 ([#4473](https://github.com/getsentry/sentry-java/pull/4473))
   - [changelog](https://github.com/gradle/gradle/blob/master/CHANGELOG.md#v8142)
   - [diff](https://github.com/gradle/gradle/compare/v8.14.1...v8.14.2)
+- Bump Native SDK from v0.8.4 to v0.12.2 ([#40](https://github.com/lucas-zimerman/sentry-java/pull/40))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#0122)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.8.4...0.12.2)
 
 ## 8.14.0
 
